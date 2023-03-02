@@ -76,9 +76,11 @@ The Tickets Tracking System is a customer service application that enables custo
   <p align="center">
     <img  src="./images/form.png"  alt="form">
     <img  src="./images/form-phone.png" width="300px" height="100%"  alt="form phone pic">
-    <img  src="https://github.com/HussainAlii/Ticket-Tracking-System/blob/main/images/submit-success.gif?" width="300px" height="100%"  alt="form phone pic">
+    <img  src="https://user-images.githubusercontent.com/58237246/222374105-d9826fc5-90ae-4e0d-b30e-5480761abc68.gif" width="300px" height="100%"  alt="form phone pic">
+
+
   </p>
-    
+
   <a name="language_setting"/>  
     
   * Users can click on the language setting button to switch between English and Arabic language.
