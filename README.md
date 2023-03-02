@@ -67,82 +67,17 @@ The Tickets Tracking System is a customer service application that enables custo
 
 ## Overall Outcomes/Achievements
 
-  <a name="form"/>  
+<a name="form"/>  
   
-  * Form Page:
+* Form Page:
 
-  The Form page is a user-friendly and responsive interface that allows customers to publish a new tickets detailing their issues. It includes fields for essential information, such as name, email, phone number, description and images of the issue.
+The Form page is a user-friendly and responsive interface that allows customers to publish a new tickets detailing their issues. It includes fields for essential information, such as name, email, phone number, description and images of the issue.
 
-  <p align="center">
-    <img  src="./images/form.png"  alt="form">
-    <img  src="./images/form-phone.png" width="300px" height="100%"  alt="form phone pic">
-    <img  src="./images/submit-success.gif" width="300px" height="100%">
-  </p>
+<div align="center">
+  <img src="./images/form.png" alt="form">
+  <img src="./images/form-phone.png" width="300px" height="100%" alt="form phone pic">
+  <br>
+  <img src="./images/submit-success.gif" width="300px" alt="submit success">
+</div>
 
-
-  <a name="language_setting"/>  
-    
-  * Users can click on the language setting button to switch between English and Arabic language.
-  
-    <p align="center">
-      <img  src="./images/language.jpg" width="270px" height="600px" alt="language">
-      <img  src="./images/language2.jpg" width="270px" height="600px" alt="language-ar">
-    </p>
-        
-  <a name="help"/>  
-    
-  * Users can click on the help button to display the app help system.
-  
-    <p align="center">
-      <img  src="./images/help.jpg" width="270px" height="600px" alt="help">
-      <img  src="./images/help2.jpg" width="270px" height="600px" alt="help-ar">
-    </p>
-            
-  <a name="disconnected"/>  
-    
-  * Show Disconnected Alert when The user is not connected to the Internet.
-  
-    <p align="center">
-      <img  src="./images/disconnected.jpg" width="270px" height="600px" alt="disconnected">
-      <img  src="./images/disconnected-ar.jpg" width="270px" height="600px" alt="disconnected-ar">
-    </p>
-
-  <a name="capture_examples"/>  
-  
-  * Capture Result Examples:
-
-    <a name="general_res"/>  
-  
-    - General Capture Result example.
-
-    </br>
-
-    <p align="center">
-      <img  src="./images/general_res.jpg" width="270px" height="600px" alt="help">
-      <img  src="./images/general_res2.jpg" width="270px" height="600px" alt="help-ar">
-    </p>
-
-    <a name="color_res"/>  
-    
-    - Color Capture Result example.
-
-    </br>
-
-    <p align="center">
-      <img  src="./images/color_res.jpg" width="270px" height="600px" alt="help">
-      <img  src="./images/color_res2.jpg" width="270px" height="600px" alt="help-ar">
-    </p>
-    
-    <a name="food_res"/>  
-    
-    - Food Capture Result example.
-
-    </br>
-
-    <p align="center">
-      <img  src="./images/food_res.jpg" width="270px" height="600px" alt="help">
-      <img  src="./images/food_res2.jpg" width="270px" height="600px" alt="help-ar">
-    </p>
-
-
-
+![submit-success](https://user-images.githubusercontent.com/58237246/222396719-32c1d840-56f8-40c0-a90a-7aea1be3d00c.gif)
