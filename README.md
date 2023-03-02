@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img  src="./images/logo.svg" alt="Logo">
+    <img  src="./images/logo.png" alt="Logo">
   </a>
 </p>
 
