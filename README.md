@@ -13,20 +13,31 @@
   <ol>
     <li>
       <a href="#about">About The Project</a>
+        <ul>
+            <li><a href="#tools">Built With</a></li>
+         </ul>
     </li>
     <li>
       <a href="#overall_outcomes">Overall Outcomes/Achievements</a>
       <ul>
         <li><a href="#form">Form Page</a></li>
         <li><a href="#admin-login">Login Page</a></li>
-        <li><a href="#dashboard">Admin Dashboard Page</a></li>
+        <li><a href="#agents">Agents Page</a></li>
+        <ul>
+            <li><a href="#create-new-agent">Create New Agent</a></li>
+          </ul>
         <li><a href="#Tickets">Tickets Page</a></li>
         <li><a href="#Ticket-Details">Ticket Details Page</a></li>
-          <ul>
-            <li><a href="#general_res">General Capture Result example</a></li>
-            <li><a href="#color_res">Color Capture Result example</a></li>
-            <li><a href="#food_res">Food Capture Result example</a></li>
-          </ul>
+        <li><a href="#dashboard">Admin Dashboard Page</a></li>
+        <ul>
+            <li><a href="#between-interval">Select Between Interval</a></li>
+            <li><a href="#export">Export</a></li>
+         </ul>
+        <li><a href="#setting">Setting Page</a></li>
+        <ul>
+            <li><a href="#theme-setting">Theme's Setting</a></li>
+            <li><a href="#account-setting">Account Settings</a></li>
+         </ul>
       </ul>
     </li>
   </ol>
@@ -39,16 +50,13 @@
 
 The Tickets Tracking System is a customer service application that enables customers to create tickets detailing their issues, and agents can contact customers for follow-up. The dashboard page displays a summary of the tickets and general details. Moreover, the ticket details page includes images and detailed descriptions of the customers' issues. The application also features an agents page to manage and assign roles, such as admin, super admin, and agent. The project aims to streamline customer service for businesses and enhance customer satisfaction.
 
+<a name="tools"/>
 
 ### Built With
 
 * [React](https://ar.reactjs.org)
 * [Material-UI](https://material-ui.com)
 * [Laravel](https://laravel.com/)
-
-<p align="center">
-<img  src="./images/home.jpg" width="270px" height="600px" alt="Home Page">
-</p>
 
 <a name="recognition_types"/> 
 
