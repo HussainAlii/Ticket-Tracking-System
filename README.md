@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<br />
+
+Jump to
+
  <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -69,21 +73,10 @@ The Tickets Tracking System is a customer service application that enables custo
   The Form page is a user-friendly and responsive interface that allows customers to publish a new tickets detailing their issues. It includes fields for essential information, such as name, email, phone number, description and images of the issue.
 
   <p align="center">
-    <img  src="./images/form.png" width="270px" height="600px" alt="language">
+    <img  src="./images/form.png"  alt="language">
     <img  src="./images/form-phone.png" width="270px" height="600px" alt="language-ar">
+    <img  src="./images/submit-success.gif" width="270px" height="600px" alt="language-ar">
   </p>
-    
-    <ul>
-      <ul>
-         <li>Users can Swipe Left-Or-Right to choose from diffrenet recognition types.</li>
-         <li>Users can Long Press anywehre in the screen to display the current recognition type.</li>
-         <li>Users can Click anywhere on the screen and the capture button will follow their touch position.</li>
-       </ul>
-    </ul>
-
-    <p align="center">
-      <img  src="./images/home2.jpg" width="270px" height="600px" alt="Home Page">
-    </p>
     
   <a name="language_setting"/>  
     
