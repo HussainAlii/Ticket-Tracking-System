@@ -9,7 +9,6 @@
 
 <br />
 
-Jump to
 
  <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -47,6 +46,8 @@ Jump to
   </ol>
 </details>
 
+<br />
+
 <!-- ABOUT THE PROJECT -->
 <a name="about"/>
 
@@ -68,14 +69,14 @@ The Tickets Tracking System is a customer service application that enables custo
 
   <a name="form"/>  
   
-  * Form:
+  * Form Page:
 
   The Form page is a user-friendly and responsive interface that allows customers to publish a new tickets detailing their issues. It includes fields for essential information, such as name, email, phone number, description and images of the issue.
 
   <p align="center">
-    <img  src="./images/form.png"  alt="language">
-    <img  src="./images/form-phone.png" width="270px" height="600px" alt="language-ar">
-    <img  src="./images/submit-success.gif" width="270px" height="600px" alt="language-ar">
+    <img  src="./images/form.png"  alt="form">
+    <img  src="./images/form-phone.png" width="300px" height="100%"  alt="form phone pic">
+    <img  src="https://github.com/HussainAlii/Ticket-Tracking-System/blob/main/images/submit-success.gif?" width="300px" height="100%"  alt="form phone pic">
   </p>
     
   <a name="language_setting"/>  
@@ -141,3 +142,6 @@ The Tickets Tracking System is a customer service application that enables custo
       <img  src="./images/food_res.jpg" width="270px" height="600px" alt="help">
       <img  src="./images/food_res2.jpg" width="270px" height="600px" alt="help-ar">
     </p>
+
+
+
