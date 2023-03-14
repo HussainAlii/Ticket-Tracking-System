@@ -76,8 +76,5 @@ The Form page is a user-friendly and responsive interface that allows customers 
 <div align="center">
   <img src="./images/form.png" alt="form">
   <img src="./images/form-phone.png" width="300px" height="100%" alt="form phone pic">
-  <br>
-  <img src="./images/submit-success.gif" width="300px" alt="submit success">
+  <img src="./images/submit-success.gif" width="300px" alt="submit success" style="display: inline;">
 </div>
-
-![submit-success](https://user-images.githubusercontent.com/58237246/222396719-32c1d840-56f8-40c0-a90a-7aea1be3d00c.gif)
