@@ -73,8 +73,9 @@ The Tickets Tracking System is a customer service application that enables custo
 
 The Form page is a user-friendly and responsive interface that allows customers to publish a new tickets detailing their issues. It includes fields for essential information, such as name, email, phone number, description and images of the issue.
 
-<p float="left">
-  <img src="./images/form.png" alt="form">
-  <img src="./images/form-phone.png" width="300px" height="100%" alt="form phone pic">
-  <img src="./images/submit-success.gif" width="300px" alt="submit success" style="display: inline;">
+<p>
+  <img src="./images/form.png" width="700px" alt="form">
+  <img src="./images/form-phone.png" width="300px" alt="form">
 </p>
+
+[![submit-success.gif](https://i.postimg.cc/43H4LzKB/submit-success.gif)](https://postimg.cc/Z9Zh0vxd)
