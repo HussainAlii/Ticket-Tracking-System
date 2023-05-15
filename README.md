@@ -78,10 +78,12 @@ The Tickets Tracking System is a customer service application that enables custo
 <div align="center">
   <img src="./images/form.png" width="520px" alt="form">
   <img src="./images/form-phone.png" width="150px" alt="form">
+<div/>
+  
 </p>
 
 - Once a customer submits a ticket, it will be forwarded to the agents in the admin dashboard, allowing them to view the issue and reach out to the customer for resolution.
 
 <p align="center">
-  <a href="https://postimg.cc/Z9Zh0vxd"><img width="211px" src="https://i.postimg.cc/43H4LzKB/submit-success.gif" alt="Form Submited Successfully"></a>
+  <img width="211px" src="./images/submit-success.gif" alt="Form Submited Successfully">
 </p>
