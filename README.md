@@ -5,6 +5,8 @@
   <a href="">
     <img  src="./images/logo.png" alt="Logo">
   </a>
+  <br />
+    <h6 align="center">Sorry :( Not Finished Yet</h6>
 </p>
 
 <br />
