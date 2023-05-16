@@ -26,7 +26,7 @@
       <a href="#overall_outcomes">Overall Outcomes/Achievements</a>
       <ul>
         <li><a href="#form">Form Page</a></li>
-        <li><a href="#admin-login">Login Page</a></li>
+        <li><a href="#agent-login">Login Page</a></li>
         <li><a href="#agents">Agents Page</a></li>
         <ul>
             <li><a href="#create-new-agent">Create New Agent</a></li>
@@ -78,12 +78,22 @@ The Tickets Tracking System is a customer service application that enables custo
 <div align="center">
   <img src="./images/form.png" width="520px" alt="form">
   <img src="./images/form-phone.png" width="150px" alt="form">
-<div/>
+</div>
   
 </p>
 
 - Once a customer submits a ticket, it will be forwarded to the agents in the admin dashboard, allowing them to view the issue and reach out to the customer for resolution.
 
 <p align="center">
-  <img width="211px" src="./images/submit-success.gif" alt="Form Submited Successfully">
+  <img width="200px" src="./images/submit-success.gif" alt="Form Submited Successfully">
 </p>
+
+<a name="agent-login"/>  
+
+### Login Page:
+
+- only agents can login to the dashboard.
+
+<div align="center">
+  <img src="./images/signin.png" width="420px" alt="form">
+</div>
